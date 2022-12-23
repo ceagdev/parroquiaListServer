@@ -1,5 +1,6 @@
 {
-   {
+  "parroquias": [
+    {
     "userId": 1,
     "id": 1,
     "name": "El Buen Pastor",
@@ -13,4 +14,8 @@
     "address": "Evaristo Morales",
     "schedule":"L-S:6AM/6:30PM D:9AM/11AM/6:30PM"
   }
- }
+  ],
+  "profile": {
+    "name": "ceag"
+  }
+}
