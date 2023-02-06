@@ -5,189 +5,231 @@
     "id": 1,
     "name": "El Buen Pastor",
     "address": "Evaristo Morales",
-    "schedule":"L-S:6AM/6:30PM D:9AM/11AM/6:30PM"
+    "schedule":"L-V:6:30AM/6:30PM S:6:30AM/6:30PM D:9:00AM/11:00AM/6:30PM"
   },
   {
     "userId": 1,
     "id": 2,
-    "name": "Nuestra Señora del Santisimo Rosario",
-    "address": "Evaristo Morales",
-    "schedule":"L-S:6AM/6:30PM D:9AM/11AM/6:30PM"
+    "name": "San Antonio Maria Claret",
+    "address": "Paraiso",
+    "schedule":"L-V:6:00AM/6:30PM S:6:00AM/6:30PM D:9:00AM/11:00AM/6:00PM"
   },
   {
     "userId": 1,
     "id": 3,
     "name": "Santisima Trinidad",
-    "address": "Serralles",
-    "schedule":"L-S:6AM/6:30PM D:9AM/11AM/6:30PM"
+    "address": "La Julia",
+    "schedule":"L-V:6:00PM S:6:00PM D:9:00AM/10:00AM/11:30AM/7:00PM/8:30PM"
   },
   {
     "userId": 1,
-    "id": 1,
-    "name": "El Buen Pastor",
-    "address": "Evaristo Morales",
-    "schedule":"L-S:6AM/6:30PM D:9AM/11AM/6:30PM"
+    "id": 4,
+    "name": "Divino Niño",
+    "address": "Las Praderas",
+    "schedule":"L-V:7:00PM S:6:00PM D:9:30AM/11:00AM/6:00PM"
   },
   {
     "userId": 1,
-    "id": 2,
-    "name": "Nuestra Señora del Santisimo Rosario",
-    "address": "Evaristo Morales",
-    "schedule":"L-S:6AM/6:30PM D:9AM/11AM/6:30PM"
+    "id": 5,
+    "name": "Nuestra Señora de la Divina Providencia",
+    "address": "Arroyo Hondo",
+    "schedule":"L-V:6:30PM S:7:00PM D:9:30AM/11:00AM/7:00PM"
   },
   {
     "userId": 1,
-    "id": 3,
-    "name": "Santisima Trinidad",
-    "address": "Serralles",
-    "schedule":"L-S:6AM/6:30PM D:9AM/11AM/6:30PM"
+    "id": 6,
+    "name": "Nuestra Señora del Sagrado Corazón",
+    "address": "Los Prados",
+    "schedule":"L-V:6:30AM/6:30PM S:6:30AM/6:30PM D:9AM/11AM/6:30PM"
   },
   {
     "userId": 1,
-    "id": 1,
-    "name": "El Buen Pastor",
-    "address": "Evaristo Morales",
-    "schedule":"L-S:6AM/6:30PM D:9AM/11AM/6:30PM"
+    "id": 7,
+    "name": "San Mauricio Martir",
+    "address": "Los Jardines del norte",
+    "schedule":"L-V:6:00PM S:6:00PM D:7:30AM/10:00AM/6:00PM"
   },
   {
     "userId": 1,
-    "id": 2,
-    "name": "Nuestra Señora del Santisimo Rosario",
-    "address": "Evaristo Morales",
-    "schedule":"L-S:6AM/6:30PM D:9AM/11AM/6:30PM"
+    "id": 8,
+    "name": "Nuestra Señora de La Fe",
+    "address": "Ensanche La Fe",
+    "schedule":"L-V:6:30PM S:7:00AM D:7:00AM/11:00AM"
   },
   {
     "userId": 1,
-    "id": 3,
-    "name": "Santisima Trinidad",
-    "address": "Serralles",
-    "schedule":"L-S:6AM/6:30PM D:9AM/11AM/6:30PM"
+    "id": 9,
+    "name": "San José de Calasanz",
+    "address": "Cerros Arroyo Hondo",
+    "schedule":"L-V:6:30PM S:6:30PM D:9AM/11AM/6:30PM"
   },
     {
     "userId": 1,
+    "id": 10,
+    "name": "Jesucristo Sumo y Eterno Sacerdote",
+    "address": "Evaristo Morales",
+    "schedule":"L-V:6:00PM S:6:00PM D:9:00AM/11:00AM/6:30PM/8:00PM"
+  },
+  {
+    "userId": 1,
+    "id": 11,
+    "name": "Jesus Maestro",
+    "address": "Mirador Sur",
+    "schedule":"L-V:7:00AM/6:00PM S:7:00AM/6:00PM D:7:00AM/9:00AM/11:00 AM/6:30PMM"
+  },
+   {
+    "userId": 1,
     "id": 1,
     "name": "El Buen Pastor",
     "address": "Evaristo Morales",
-    "schedule":"L-S:6AM/6:30PM D:9AM/11AM/6:30PM"
+    "schedule":"L-V:6:30AM/6:30PM S:6:30AM/6:30PM D:9:00AM/11:00AM/6:30PM"
   },
   {
     "userId": 1,
     "id": 2,
-    "name": "Nuestra Señora del Santisimo Rosario",
-    "address": "Evaristo Morales",
-    "schedule":"L-S:6AM/6:30PM D:9AM/11AM/6:30PM"
+    "name": "San Antonio Maria Claret",
+    "address": "Paraiso",
+    "schedule":"L-V:6:00AM/6:30PM S:6:00AM/6:30PM D:9:00AM/11:00AM/6:00PM"
   },
   {
     "userId": 1,
     "id": 3,
     "name": "Santisima Trinidad",
-    "address": "Serralles",
-    "schedule":"L-S:6AM/6:30PM D:9AM/11AM/6:30PM"
+    "address": "La Julia",
+    "schedule":"L-V:6:00PM S:6:00PM D:9:00AM/10:00AM/11:30AM/7:00PM/8:30PM"
   },
   {
     "userId": 1,
-    "id": 1,
-    "name": "El Buen Pastor",
-    "address": "Evaristo Morales",
-    "schedule":"L-S:6AM/6:30PM D:9AM/11AM/6:30PM"
+    "id": 4,
+    "name": "Divino Niño",
+    "address": "Las Praderas",
+    "schedule":"L-V:7:00PM S:6:00PM D:9:30AM/11:00AM/6:00PM"
   },
   {
     "userId": 1,
-    "id": 2,
-    "name": "Nuestra Señora del Santisimo Rosario",
-    "address": "Evaristo Morales",
-    "schedule":"L-S:6AM/6:30PM D:9AM/11AM/6:30PM"
+    "id": 5,
+    "name": "Nuestra Señora de la Divina Providencia",
+    "address": "Arroyo Hondo",
+    "schedule":"L-V:6:30PM S:7:00PM D:9:30AM/11:00AM/7:00PM"
   },
   {
     "userId": 1,
-    "id": 3,
-    "name": "Santisima Trinidad",
-    "address": "Serralles",
-    "schedule":"L-S:6AM/6:30PM D:9AM/11AM/6:30PM"
+    "id": 6,
+    "name": "Nuestra Señora del Sagrado Corazón",
+    "address": "Los Prados",
+    "schedule":"L-V:6:30AM/6:30PM S:6:30AM/6:30PM D:9AM/11AM/6:30PM"
   },
   {
     "userId": 1,
-    "id": 1,
-    "name": "El Buen Pastor",
-    "address": "Evaristo Morales",
-    "schedule":"L-S:6AM/6:30PM D:9AM/11AM/6:30PM"
+    "id": 7,
+    "name": "San Mauricio Martir",
+    "address": "Los Jardines del norte",
+    "schedule":"L-V:6:00PM S:6:00PM D:7:30AM/10:00AM/6:00PM"
   },
   {
     "userId": 1,
-    "id": 2,
-    "name": "Nuestra Señora del Santisimo Rosario",
-    "address": "Evaristo Morales",
-    "schedule":"L-S:6AM/6:30PM D:9AM/11AM/6:30PM"
+    "id": 8,
+    "name": "Nuestra Señora de La Fe",
+    "address": "Ensanche La Fe",
+    "schedule":"L-V:6:30PM S:7:00AM D:7:00AM/11:00AM"
   },
   {
     "userId": 1,
-    "id": 3,
-    "name": "Santisima Trinidad",
-    "address": "Serralles",
-    "schedule":"L-S:6AM/6:30PM D:9AM/11AM/6:30PM"
+    "id": 9,
+    "name": "San José de Calasanz",
+    "address": "Cerros Arroyo Hondo",
+    "schedule":"L-V:6:30PM S:6:30PM D:9AM/11AM/6:30PM"
   },
     {
     "userId": 1,
+    "id": 10,
+    "name": "Jesucristo Sumo y Eterno Sacerdote",
+    "address": "Evaristo Morales",
+    "schedule":"L-V:6:00PM S:6:00PM D:9:00AM/11:00AM/6:30PM/8:00PM"
+  },
+  {
+    "userId": 1,
+    "id": 11,
+    "name": "Jesus Maestro",
+    "address": "Mirador Sur",
+    "schedule":"L-V:7:00AM/6:00PM S:7:00AM/6:00PM D:7:00AM/9:00AM/11:00 AM/6:30PMM"
+  },
+      {
+    "userId": 1,
     "id": 1,
     "name": "El Buen Pastor",
     "address": "Evaristo Morales",
-    "schedule":"L-S:6AM/6:30PM D:9AM/11AM/6:30PM"
+    "schedule":"L-V:6:30AM/6:30PM S:6:30AM/6:30PM D:9:00AM/11:00AM/6:30PM"
   },
   {
     "userId": 1,
     "id": 2,
-    "name": "Nuestra Señora del Santisimo Rosario",
-    "address": "Evaristo Morales",
-    "schedule":"L-S:6AM/6:30PM D:9AM/11AM/6:30PM"
+    "name": "San Antonio Maria Claret",
+    "address": "Paraiso",
+    "schedule":"L-V:6:00AM/6:30PM S:6:00AM/6:30PM D:9:00AM/11:00AM/6:00PM"
   },
   {
     "userId": 1,
     "id": 3,
     "name": "Santisima Trinidad",
-    "address": "Serralles",
-    "schedule":"L-S:6AM/6:30PM D:9AM/11AM/6:30PM"
+    "address": "La Julia",
+    "schedule":"L-V:6:00PM S:6:00PM D:9:00AM/10:00AM/11:30AM/7:00PM/8:30PM"
   },
   {
     "userId": 1,
-    "id": 1,
-    "name": "El Buen Pastor",
+    "id": 4,
+    "name": "Divino Niño",
+    "address": "Las Praderas",
+    "schedule":"L-V:7:00PM S:6:00PM D:9:30AM/11:00AM/6:00PM"
+  },
+  {
+    "userId": 1,
+    "id": 5,
+    "name": "Nuestra Señora de la Divina Providencia",
+    "address": "Arroyo Hondo",
+    "schedule":"L-V:6:30PM S:7:00PM D:9:30AM/11:00AM/7:00PM"
+  },
+  {
+    "userId": 1,
+    "id": 6,
+    "name": "Nuestra Señora del Sagrado Corazón",
+    "address": "Los Prados",
+    "schedule":"L-V:6:30AM/6:30PM S:6:30AM/6:30PM D:9AM/11AM/6:30PM"
+  },
+  {
+    "userId": 1,
+    "id": 7,
+    "name": "San Mauricio Martir",
+    "address": "Los Jardines del norte",
+    "schedule":"L-V:6:00PM S:6:00PM D:7:30AM/10:00AM/6:00PM"
+  },
+  {
+    "userId": 1,
+    "id": 8,
+    "name": "Nuestra Señora de La Fe",
+    "address": "Ensanche La Fe",
+    "schedule":"L-V:6:30PM S:7:00AM D:7:00AM/11:00AM"
+  },
+  {
+    "userId": 1,
+    "id": 9,
+    "name": "San José de Calasanz",
+    "address": "Cerros Arroyo Hondo",
+    "schedule":"L-V:6:30PM S:6:30PM D:9AM/11AM/6:30PM"
+  },
+    {
+    "userId": 1,
+    "id": 10,
+    "name": "Jesucristo Sumo y Eterno Sacerdote",
     "address": "Evaristo Morales",
-    "schedule":"L-S:6AM/6:30PM D:9AM/11AM/6:30PM"
+    "schedule":"L-V:6:00PM S:6:00PM D:9:00AM/11:00AM/6:30PM/8:00PM"
   },
   {
     "userId": 1,
-    "id": 2,
-    "name": "Nuestra Señora del Santisimo Rosario",
-    "address": "Evaristo Morales",
-    "schedule":"L-S:6AM/6:30PM D:9AM/11AM/6:30PM"
-  },
-  {
-    "userId": 1,
-    "id": 3,
-    "name": "Santisima Trinidad",
-    "address": "Serralles",
-    "schedule":"L-S:6AM/6:30PM D:9AM/11AM/6:30PM"
-  },
-  {
-    "userId": 1,
-    "id": 1,
-    "name": "El Buen Pastor",
-    "address": "Evaristo Morales",
-    "schedule":"L-S:6AM/6:30PM D:9AM/11AM/6:30PM"
-  },
-  {
-    "userId": 1,
-    "id": 2,
-    "name": "Nuestra Señora del Santisimo Rosario",
-    "address": "Evaristo Morales",
-    "schedule":"L-S:6AM/6:30PM D:9AM/11AM/6:30PM"
-  },
-  {
-    "userId": 1,
-    "id": 3,
-    "name": "Santisima Trinidad",
-    "address": "Serralles",
-    "schedule":"L-S:6AM/6:30PM D:9AM/11AM/6:30PM"
+    "id": 11,
+    "name": "Jesus Maestro",
+    "address": "Mirador Sur",
+    "schedule":"L-V:7:00AM/6:00PM S:7:00AM/6:00PM D:7:00AM/9:00AM/11:00 AM/6:30PMM"
   }
   ],
   "profile": {
