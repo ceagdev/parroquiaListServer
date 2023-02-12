@@ -75,7 +75,7 @@
     "id": 11,
     "name": "Jesus Maestro",
     "address": "Mirador Sur",
-    "schedule":"L-V:7:00AM/6:00PM S:7:00AM/6:00PM D:7:00AM/9:00AM/11:00AM/6:30PMM"
+    "schedule":"L-V:7:00AM/6:00PM S:7:00AM/6:00PM D:7:00AM/9:00AM/11:00AM/6:30PM"
   },
    {
     "userId": 1,
@@ -152,7 +152,7 @@
     "id": 11,
     "name": "Jesus Maestro",
     "address": "Mirador Sur",
-    "schedule":"L-V:7:00AM/6:00PM S:7:00AM/6:00PM D:7:00AM/9:00AM/11:00AM/6:30PMM"
+    "schedule":"L-V:7:00AM/6:00PM S:7:00AM/6:00PM D:7:00AM/9:00AM/11:00AM/6:30PM"
   },
       {
     "userId": 1,
